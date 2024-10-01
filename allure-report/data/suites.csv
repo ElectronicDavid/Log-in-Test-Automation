@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","721","UC-2 Test Login form with credentials by passing","","Mon Sep 30 21:39:18 COT 2024","passed","Mon Sep 30 21:39:18 COT 2024","","EPAM TEST","",""
+"","537","UC-3 Test Login form with credentials by passing Username & Password:","","Mon Sep 30 21:39:18 COT 2024","passed","Mon Sep 30 21:39:19 COT 2024","","EPAM TEST","",""
+"","7235","UC-1 Test Login form with empty credentials:","","Mon Sep 30 21:39:01 COT 2024","passed","Mon Sep 30 21:39:08 COT 2024","","EPAM TEST","",""
+"","7128","UC-1 Test Login form with empty credentials:","","Mon Sep 30 21:39:11 COT 2024","passed","Mon Sep 30 21:39:18 COT 2024","","EPAM TEST","",""
+"","699","UC-2 Test Login form with credentials by passing","","Mon Sep 30 21:39:08 COT 2024","passed","Mon Sep 30 21:39:09 COT 2024","","EPAM TEST","",""
+"","476","UC-3 Test Login form with credentials by passing Username & Password:","","Mon Sep 30 21:39:09 COT 2024","passed","Mon Sep 30 21:39:09 COT 2024","","EPAM TEST","",""
